@@ -1,0 +1,12 @@
+{
+  "name": "MyGame",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "MyModule": {
+        "$path": "src/MyModule.lua"
+      }
+    }
+  }
+}
