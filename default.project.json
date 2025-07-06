@@ -7,6 +7,14 @@
       "MyModule": {
         "$path": "src/MyModule.lua"
       }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "HealthTest": {
+        "$path": "src/HealthTest.lua"
+      }
     }
   }
 }
+
+
